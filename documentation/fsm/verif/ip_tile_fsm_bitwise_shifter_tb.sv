@@ -4,7 +4,7 @@
 // Engineer:
 //
 // Design Name: semicolab
-// Module Name: ip_tile_fsm_bitwise_shifter
+// Module Name: ip_tile_fsm_bitwise_shifter_tb
 //
 //////////////////////////////////////////////////////////////////////////////////
 
