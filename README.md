@@ -1,1 +1,1 @@
-# Semicolab - digital design certification Nayarit-cocyten 2025
+# Semicolab - Digital Design Certification Nayarit-COCYTEN 2025
