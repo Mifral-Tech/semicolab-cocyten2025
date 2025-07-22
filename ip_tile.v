@@ -1,4 +1,12 @@
 `timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: Mifral
+// Engineer:
+//
+// Design Name: semicolab
+// Module Name: ip_tile
+//
+//////////////////////////////////////////////////////////////////////////////////
 
 module ip_tile #(
 parameter REG_WIDTH = 32,
@@ -15,7 +23,7 @@ output wire [REG_WIDTH - 1:0] data_reg_c,
 output wire [CSR_OUT_WIDTH-1:0] csr_out,
 output wire csr_in_re,
 output wire csr_out_we
-    ); 
+); 
 
 // USERS LOGIC //
 
