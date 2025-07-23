@@ -27,4 +27,4 @@ output wire csr_out_we
 
 // USERS LOGIC //
 
-endmodule;
+endmodule
