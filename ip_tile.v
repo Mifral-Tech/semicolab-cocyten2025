@@ -25,6 +25,8 @@ output wire csr_in_re,
 output wire csr_out_we
 ); 
 
-// USERS LOGIC //
+  // { USER LOGIC STARTS HERE //
+
+  // USER LOGIC ENDS HERE  } //
 
 endmodule
