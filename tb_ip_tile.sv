@@ -33,6 +33,8 @@ ip_tile_user_name DUT(
   .data_reg_c(intf.data_reg_c)
 );
 
-// User Tests //
+  // { USER LOGIC STARTS HERE //
+
+  // USER LOGIC ENDS HERE  } //
 
 endmodule
