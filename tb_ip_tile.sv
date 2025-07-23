@@ -33,8 +33,8 @@ ip_tile_user_name DUT(
   .data_reg_c(intf.data_reg_c)
 );
 
-  // { USER LOGIC STARTS HERE //
+  // USER LOGIC STARTS HERE //
 
-  // USER LOGIC ENDS HERE  } //
+  // USER LOGIC ENDS HERE //
 
 endmodule
