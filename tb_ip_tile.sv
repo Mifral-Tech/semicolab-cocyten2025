@@ -33,8 +33,8 @@ ip_tile DUT(
   .data_reg_c(intf.data_reg_c)
 );
 
-  // USER TESTS STARTS HERE //
+  // USER TEST STARTS HERE //
 
-  // USER TESTS ENDS HERE //
+  // USER TEST ENDS HERE //
 
 endmodule
