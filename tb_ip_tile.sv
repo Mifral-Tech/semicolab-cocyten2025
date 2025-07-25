@@ -21,7 +21,7 @@ interface_ip_tile intf(clk, arst_n);
 always #5ns clk = !clk;
 assign #20ns arst_n = 1'b1;
 
-ip_tile_user_name DUT(
+ip_tile DUT(
   .clk(clk),
   .arst_n(arst_n),
   .csr_in(intf.csr_in),
@@ -33,8 +33,8 @@ ip_tile_user_name DUT(
   .data_reg_c(intf.data_reg_c)
 );
 
-  // USER LOGIC STARTS HERE //
+  // USER TESTS STARTS HERE //
 
-  // USER LOGIC ENDS HERE //
+  // USER TESTS ENDS HERE //
 
 endmodule
